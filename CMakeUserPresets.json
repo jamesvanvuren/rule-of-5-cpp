@@ -1,9 +1,0 @@
-{
-    "version": 4,
-    "vendor": {
-        "conan": {}
-    },
-    "include": [
-        "/home/james/Interviews/rule-of-5/build/CMakePresets.json"
-    ]
-}
